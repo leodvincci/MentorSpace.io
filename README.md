@@ -42,12 +42,3 @@ MentorSpace.io is a cutting-edge web application designed to revolutionize mento
 
 - **Gamification Elements:** Recognize achievements with badges, creating a motivating and competitive environment.
 
-## Getting Started
-
-### Installation
-
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/your-username/mentorspace.io.git
-
